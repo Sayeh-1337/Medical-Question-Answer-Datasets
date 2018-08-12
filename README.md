@@ -7,7 +7,7 @@ This repository consists of several sources for medical question & answer datase
 
 ## HealthTap Question & Answer Dataset
 ### [**Download**](http://healthtap.com)
-- **Latest Crawl Date:** 12.08.2018
+- **Latest Crawl Date:** 10.07.2018
 - **Total Question & Answer Count:** 1605232 (1.6M)
 - **Single question has below details:**
   - Question
